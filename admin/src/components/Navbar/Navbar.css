@@ -1,0 +1,17 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4%;
+    
+}
+.navbar .logo{
+    width: 150px;
+}
+.navbar h3{
+    color: rgb(71, 68, 68);
+}
+.profile{
+    width: 50px;
+    border-radius: 100%;
+}
